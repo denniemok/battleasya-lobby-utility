@@ -1,0 +1,6 @@
+name: LobbyUtility
+main: com.battleasya.LobbyUtility
+version: 1.0.0
+author: Dennie
+website: http://battleasya.com
+description: A simple lobby utility plugin.
