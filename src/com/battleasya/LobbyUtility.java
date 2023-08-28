@@ -44,7 +44,7 @@ public class LobbyUtility extends JavaPlugin implements Listener {
     }
 
     @EventHandler
-    public void onStep(PlayerInteractEvent event) {
+    public void onInteract(PlayerInteractEvent event) {
 
         if (event.getAction() != Action.PHYSICAL) {
             return;
