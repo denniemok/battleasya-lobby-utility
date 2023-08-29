@@ -9,11 +9,11 @@ import org.bukkit.event.Listener;
 import org.bukkit.event.block.Action;
 import org.bukkit.event.player.PlayerInteractEntityEvent;
 import org.bukkit.event.player.PlayerInteractEvent;
-import org.bukkit.event.player.PlayerJoinEvent;
+// import org.bukkit.event.player.PlayerJoinEvent;
 import org.bukkit.event.player.PlayerQuitEvent;
 import org.bukkit.plugin.java.JavaPlugin;
-import org.bukkit.potion.PotionEffect;
-import org.bukkit.potion.PotionEffectType;
+// import org.bukkit.potion.PotionEffect;
+// import org.bukkit.potion.PotionEffectType;
 import org.bukkit.scheduler.BukkitRunnable;
 import org.bukkit.util.Vector;
 
@@ -38,10 +38,10 @@ public class LobbyUtility extends JavaPlugin implements Listener {
 
     }
 
-    @EventHandler
-    public void onJoin(PlayerJoinEvent event) {
-        event.getPlayer().addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 6000, 1));
-    }
+//    @EventHandler
+//    public void onJoin(PlayerJoinEvent event) {
+//        event.getPlayer().addPotionEffect(new PotionEffect(PotionEffectType.SPEED, 6000, 1));
+//    }
 
     @EventHandler
     public void onInteract(PlayerInteractEvent event) {
