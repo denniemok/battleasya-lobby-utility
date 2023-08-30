@@ -1,4 +1,4 @@
-package com.battleasya;
+package com.battleasya.lobbyutility;
 
 import org.bukkit.Material;
 import org.bukkit.block.Block;

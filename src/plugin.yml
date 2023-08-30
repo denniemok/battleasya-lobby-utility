@@ -1,5 +1,5 @@
 name: LobbyUtility
-main: com.battleasya.LobbyUtility
+main: com.battleasya.lobbyutility.LobbyUtility
 version: 1.0.0
 author: Dennie
 website: http://battleasya.com
