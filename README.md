@@ -1,5 +1,5 @@
 <br>
-<h3 align="center">BattleAsya Utility</h3>
+<h3 align="center">BattleAsya Lobby Utility</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Version-1.0.0-green"> <img src="https://img.shields.io/badge/Spigot-1.8+-lightgrey"> <img src="https://img.shields.io/badge/License-MIT-blue"> <img src="https://img.shields.io/badge/Language-Java-yellow">
 </p>
